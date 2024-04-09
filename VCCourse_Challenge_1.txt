@@ -1,0 +1,1 @@
+I am to open a new file, write one line of text then save the file.
